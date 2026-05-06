@@ -14,9 +14,7 @@ functionality, mouse functionality, three seasons (Summer, Winter, Rainy), Day n
 conversion.
 </p>
 <br>
-
 <h1>2. Objectives</h1>
-<br>
 
 <p> The main objective of this project is to </p>
 <p> • Understand the basic concepts of computer graphics. </p>
@@ -37,7 +35,6 @@ conversion.
 <p>✓ Geogebra for plotting points</p>
 
 <h1> 4. System Description</h1>
-<br>
 <p>The system we developed is mostly a 2D fishing pond environment. But there is also a 3D
 component which is the fishing bucket. The main components of the system are:</p>
 <br>
