@@ -14,7 +14,6 @@ functionality, mouse functionality, three seasons (Summer, Winter, Rainy), Day n
 conversion.
 </p>
 <br>
-<br>
 
 <h1>2. Objectives</h1>
 <br>
@@ -26,10 +25,8 @@ conversion.
 <p>• Understand translation, rotation, and scaling.</p>
 <p>• Implement timer function to simulate.</p>
 <p>• Implement rain, snowfall, cloud move.</p>
-
 <br>
 <br>
-
 <h1>3. Tools and Technologies used </h1> 
 <br>
 <p>✓ Programming language: C++</p>
